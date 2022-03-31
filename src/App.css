@@ -10,3 +10,9 @@
   font-size: 2rem;
   color: #fff;
 }
+
+.login-info > div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
